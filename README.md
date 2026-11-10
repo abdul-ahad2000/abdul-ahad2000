@@ -2,7 +2,7 @@
 
 **Data Analytics Graduate | Business Analysis Student**
 
-I'm a Computer Science graduate specialising in Data Analytics from Asia Pacific University (APU), with a Postgraduate Diploma in Data Science from UTAR. Currently pursuing a Master of Professional Business Analysis at Victoria University of Wellington, New Zealand.
+I'm a Computer Science graduate specialising in Data Analytics from Asia Pacific University (APU), with a Postgraduate Diploma in Data Management and Analytics from UTAR. Currently pursuing a Master of Professional Business Analysis at Victoria University of Wellington, New Zealand.
 
 I'm interested in transforming data into meaningful insights that support business decisions, improve organisational performance and solve real-world problems.
 
