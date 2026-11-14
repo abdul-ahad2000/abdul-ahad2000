@@ -2,9 +2,11 @@
 
 **Data Analytics Graduate | Business Analysis Student**
 
-I'm a Computer Science graduate specialising in Data Analytics from Asia Pacific University (APU), with a Postgraduate Diploma in Data Management and Analytics from UTAR. Currently pursuing a Master of Professional Business Analysis at Victoria University of Wellington, New Zealand.
+I am a Data Analyst with a passion for working with numbers, exploring economic and political topics, and understanding the factors that shape our world.
 
-I'm interested in transforming data into meaningful insights that support business decisions, improve organisational performance and solve real-world problems.
+I enjoy gathering information from different sources, analysing data, identifying patterns and turning them into meaningful insights. My interests include economics, politics, public policy and real-world issues, particularly how data and research can help explain complex issues, evaluate policies and contribute to informed decision-making.
+
+With a background in Data Analytics and a current focus on Business Analysis, I am interested in connecting data, business and real-world developments to uncover insights and support meaningful decisions.
 
 ### 👨‍💻 Technical Skills
 
